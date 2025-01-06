@@ -1,2 +1,2 @@
 # Personal-portfolio-website
-A modern static personal portfolio website using html and css.
+A modern responsive personal portfolio website using html and css.
